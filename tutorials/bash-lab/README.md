@@ -102,9 +102,9 @@ You will be using `ls` and `pwd` a lot in this lab and throughout the quarter so
 
 **Exercises:**
 
-1. Write a command that prints all files and folders in the existing folders `Pictures` and `Music`.
-2. Write a command that prints all files and folders in your parent directory.
-3. Write a command that prints all files and folders, including hidden ones, with detailed information, sorted in chronological order. You may only pass in one parameter.
+1) Write a command that prints all files and folders in the existing folders `Pictures` and `Music`.
+2) Write a command that prints all files and folders in your parent directory.
+3) Write a command that prints all files and folders, including hidden ones, with detailed information, sorted in chronological order. You may only pass in one parameter.
 
 touch (create a file)
 --------------------------------------
@@ -123,7 +123,7 @@ Notice how the file now appears in the directory. congratulations, you've just c
 
 **Exercise:**
 
-4. Write a command that creates a file name `deleteme.txt` in a folder call `dontdeleteme`.
+4) Write a command that creates a file name `deleteme.txt` in a folder call `dontdeleteme`.
 
 mkdir (create a directory)
 --------------------------------------------
@@ -175,7 +175,7 @@ Great job! now you have a directory called `CS100`! Type `ls` to see it. Here ar
 
 **Exercises:**
 
-5. Write a command that moves two files called `cs100.rules` and `no.mouse` to a folder called `folder` in your parent's parent directory.
+5) Write a command that moves two files called `cs100.rules` and `no.mouse` to a folder called `folder` in your parent's parent directory.
 
 Now that you made a new directory, don't you want to see what's inside?
 
@@ -202,7 +202,7 @@ Now lets go back to the directory you were just in previously! How do you go bac
 
 **Exercise:**
 
-6. Write a command that changes directories to your parent directory.
+6) Write a command that changes directories to your parent directory.
 
 If you haven't run that command yet, **do not move on until you do so.** 
 
@@ -281,7 +281,7 @@ You can use this power for evil and make a command that deletes all of the files
 
 **Exercise:**
 
-7. Write a command that removes all files in your computer. 
+7) Write a command that removes all files in your computer. 
 
 cat (concatenate)
 -----------------------------
@@ -336,10 +336,10 @@ Final Exercises!
 -------------------------------------------
 By now, you should have finished 7 exercises! In order to show your proficiency with bash commands, we will test you with several more advanced exercises.
 
-8. Write a command that removes a file called `gumwrapper`. If it does not exist, create a file called `gumwrapper` and move it to an existing directory called `trash`. Connectors are allowed.
+8) Write a command that removes a file called `gumwrapper`. If it does not exist, create a file called `gumwrapper` and move it to an existing directory called `trash`. Connectors are allowed.
 
-9. Write a command that creates a directory called `sports`. If sports already existed, do nothing. Otherwise, move the existing file `baseball.txt` from your parent directory into `sports`. The parent directory should not have `baseball.txt` after running this command. There are two ways to do this. Connectors are allowed.
+9) Write a command that creates a directory called `sports`. If sports already existed, do nothing. Otherwise, move the existing file `baseball.txt` from your parent directory into `sports`. The parent directory should not have `baseball.txt` after running this command. There are two ways to do this. Connectors are allowed.
 
-10. Assuming you are not in your HOME directory, write a command that prints out all of the files and directories in your HOME directory. You are not allowed to use connectors or the `cd` command.
+10) Assuming you are not in your HOME directory, write a command that prints out all of the files and directories in your HOME directory. You are not allowed to use connectors or the `cd` command.
 
 Once you are done with all 10 exercises, your TA will come over to review your answers. 
