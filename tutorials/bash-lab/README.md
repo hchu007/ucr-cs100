@@ -103,7 +103,9 @@ You will be using `ls` and `pwd` a lot in this lab and throughout the quarter so
 **Exercises:**
 
 1) Write a command that prints all files and folders in the existing folders `Pictures` and `Music`.
+
 2) Write a command that prints all files and folders in your parent directory.
+
 3) Write a command that prints all files and folders, including hidden ones, with detailed information, sorted in chronological order. You may only pass in one parameter.
 
 touch (create a file)
