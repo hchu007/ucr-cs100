@@ -1,8 +1,8 @@
-# Introduction to the Bash Command Line
+# Intro to the Bash Command Line and Vim
 
 Purpose of this lab
 ------------------------------------
-This lab will familiarize CS 100 students with the command line as they transition from using visual displays on Windows and OS X to the Linux Bash shell.
+This lab will familiarize CS 100 students with the command line as they transition from using visual displays on Windows and OS X to the Linux Bash shell. Students will also learn how to use a new text editor: Vim.
 
 Introduction
 ------------------------------------
