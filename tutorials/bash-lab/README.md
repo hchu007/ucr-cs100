@@ -376,4 +376,6 @@ Here's some extra (optional but recommended) reading:
 
 ## deliverables
 
+Show the following to your TA:
+
 Exercises 1-10
